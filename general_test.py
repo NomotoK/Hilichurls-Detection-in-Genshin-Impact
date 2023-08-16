@@ -1,5 +1,6 @@
 import torch
 import math
+from ultralytics import YOLO
 
 
 print(torch.__version__)
