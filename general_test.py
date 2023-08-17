@@ -17,7 +17,7 @@ model = YOLO("yolov8n.pt")
 # results = model.predict(source="folder", show=True) # Display preds. Accepts all YOLO predict arguments
 
 # from PIL
-im1 = Image.open("bus.jpg")
+im1 = Image.open("traffic.jpeg")
 results = model.predict(source=im1, save=True)  # save plotted images
 for result in results:
     # Detection
