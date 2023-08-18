@@ -15,4 +15,4 @@ if __name__ == '__main__':
     model = YOLO('yolov8n.pt')  # load a pretrained model (recommended for training)
 
     # Train the model with 2 GPUs
-    results = model.train(data='/Users/hailin/Library/CloudStorage/OneDrive-TheUniversityofLiverpool/SURF23-24/Computer Vision-Based Traffic Accident Detection/datasets/hilichurl-detector.v1i.yolov8/data.yaml', epochs=10, imgsz=640, device='mps')
+    results = model.train(data='/Users/hailin/Library/CloudStorage/OneDrive-TheUniversityofLiverpool/SURF23-24/Computer Vision-Based Traffic Accident Detection/datasets/hilichurl-detector.v1i.yolov8/data.yaml', epochs=20, imgsz=640, device='mps')
