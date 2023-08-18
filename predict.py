@@ -2,7 +2,7 @@ from ultralytics import YOLO
 from PIL import Image
 
 # Load a model
-model = YOLO('./runs/detect/train7/weights/best.pt')  # pretrained YOLOv8n model
+model = YOLO('./runs/detect/train9/weights/last.pt')  # pretrained YOLOv8n model
 
 # Run batched inference on a list of images
 # results = model(['genshin-impact-mimi-tomo-event-1.jpg'])  # return a list of Results objects
