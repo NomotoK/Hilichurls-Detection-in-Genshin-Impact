@@ -7,3 +7,5 @@ Some of the inspirations I suddenly came across while working on SURF projects. 
 
 
 In the future, I hope to add an automatic attack module to enable the entire program, with the ability to automatically control the mouse and keyboard to attack enemies.
+![swarm](https://github.com/NomotoK/Hilichurls-Detection-in-Genshin-Impact/assets/99944622/15af9258-fc93-4201-a1a2-4ea6d23326aa)
+![val_batch1_pred](https://github.com/NomotoK/Hilichurls-Detection-in-Genshin-Impact/assets/99944622/14772689-8032-424f-a282-e4286532cf8a)
